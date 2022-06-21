@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CatProblem</string>
+    <string name="cat_name_label">Введите имя котика:</string>
+    <string name="cat_name">Имя котика</string>
+    <string name="cat_color_label">Цвет котика:</string>
+    <string name="cat_eye_color">Цвет глаз котика:</string>
+    <string name="cat_size">Размер котика:</string>
+    <string name="is_homeless">Бездомный</string>
+    <string name="cat_city">Место обитания котика:</string>
+    <string name="save_kitty">Сохранить котика</string>
+    <string-array name="cat_size_array">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Huge</item>
+    </string-array>
+</resources>
